@@ -12,7 +12,12 @@ We wish to predict house prices using the listings data. The reason for this is 
 The geographical location of the home was the single most deciding factor when predicting the price of a home. In fact, 7 out of the 10 most important features were related to the geographical location of the property. 
             
    - Question 2: What characteristics of the home itself are important on deciding this price and how important are they?
+
+Quite surprisingly, the main characteristics of the home such as number of bedrooms, number of bathrooms, and the people the house accommodates are not deciding factors. In fact, the most important of those characteristics is the number of beds placed at the 76th spot in ranking of importance.
+
    - Question 3: Is it possible to predict the adequate listing price for the property and, if so, with how much accuracy?
+
+
    
 These questions are important because an undervalued property could attract clients but not be able to pay for its expenses while and overvalued property could have the opposite bad effects
 
