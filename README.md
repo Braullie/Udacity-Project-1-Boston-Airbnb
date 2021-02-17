@@ -36,13 +36,13 @@ These questions are important because an undervalued property could attract clie
 The project has the two following files
    - listings.csv : The AirBnB Boston Dataset in .csv format available on Kaggle.com in the link above
    - udacity-boston.ipynb : Jupyter notebook having the complete analysis done on the data
-   - 
+
 ## Results
 
-It was found that the most important factor deciding the price of a home posted on AirBnB was the geographical location. When implementing a linear regression model, out of the 10 most important factors, 7 were about location and the other 3 were related to the listing and not the home itself. As a matter of fact, the home characteristics such as number of bedrooms were relegated to the spot 76 and beyond. The complete results are available on the medium link posted above.
+It was found that the most important factor deciding the price of a home posted on AirBnB was the geographical location. When implementing a linear regression model, out of the 10 most important factors, 7 were about location and the other 3 were related to the listing and not the home itself. As a matter of fact, the home characteristics such as number of bedrooms were relegated to the spot 76 and beyond. The complete results are available on the **medium blog link posted above.**
 
 ## Licensing, Authors, Acknowledgements
 
-Credit is given to AirBnB for posting the data for the public and to Kaggle for hosting it and giving users the opportunity to access it in their notebooks. All licensing and information about the data can be found here: https://www.kaggle.com/airbnb/boston. 
+Credit is given to AirBnB for posting the data to the public and to Kaggle for hosting it and giving users the opportunity to access it in their notebooks. All licensing and information about the data can be found here: https://www.kaggle.com/airbnb/boston. 
 
-Special thanks is given to GitHub user jjrunner whose readme file inspired this one. It can be found here: https://github.com/jjrunner/stackoverflow
+Special acknowledgement and thanks is given to GitHub user jjrunner whose readme file inspired this one. It can be found here: https://github.com/jjrunner/stackoverflow
