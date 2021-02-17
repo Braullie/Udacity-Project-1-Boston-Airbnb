@@ -1,8 +1,10 @@
 # Boston AirBNB House Price Analysis Using Machine Learning
 
-This project is created to host the files required for the first project of Udacity's Nanodegree Program.
-The data used for this project comes from AirBnB Boston Dataset found here: https://www.kaggle.com/airbnb/boston
-The main findings of this project can be found at the blog post available here: https://smurguersons.medium.com/price-prediction-in-boston-airbnb-6de2799c2f92
+This project is created to host the files required for the first project of Udacity's Nanodegree Program.  
+
+The data used for this project comes from AirBnB Boston Dataset found here: https://www.kaggle.com/airbnb/boston  
+
+The main findings of this project can be found at the blog post available here: https://smurguersons.medium.com/price-prediction-in-boston-airbnb-6de2799c2f92  
 
 **Table of Contents**
    1. Installation
